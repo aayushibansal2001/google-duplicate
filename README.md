@@ -1,2 +1,2 @@
 # google homepage
-Tried creating the Google homepage using HTML and CSS
+Made Google homepage using HTML and CSS
